@@ -1,0 +1,26 @@
+{
+  "name": "webpack-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundler.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MechaChen/webpack-lite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MechaChen/webpack-lite/issues"
+  },
+  "homepage": "https://github.com/MechaChen/webpack-lite#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}

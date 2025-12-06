@@ -22,5 +22,9 @@
   "homepage": "https://github.com/MechaChen/webpack-lite#readme",
   "devDependencies": {
     "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.28.5",
+    "@babel/traverse": "^7.28.5"
   }
 }

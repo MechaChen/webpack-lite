@@ -24,7 +24,10 @@
     "prettier": "^3.7.4"
   },
   "dependencies": {
+    "@babel/core": "^7.28.5",
     "@babel/parser": "^7.28.5",
-    "@babel/traverse": "^7.28.5"
+    "@babel/preset-env": "^7.28.5",
+    "@babel/traverse": "^7.28.5",
+    "cli-highlight": "^2.1.11"
   }
 }
